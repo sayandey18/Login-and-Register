@@ -1,0 +1,12 @@
+D:\Coding\C#\Windows Forms\Login and Register\Login and Register\bin\Debug\Login and Register.exe.config
+D:\Coding\C#\Windows Forms\Login and Register\Login and Register\bin\Debug\Login and Register.exe
+D:\Coding\C#\Windows Forms\Login and Register\Login and Register\bin\Debug\Login and Register.pdb
+D:\Coding\C#\Windows Forms\Login and Register\Login and Register\obj\Debug\Login and Register.csprojAssemblyReference.cache
+D:\Coding\C#\Windows Forms\Login and Register\Login and Register\obj\Debug\Login_and_Register.frmDashboard.resources
+D:\Coding\C#\Windows Forms\Login and Register\Login and Register\obj\Debug\Login_and_Register.frmLogin.resources
+D:\Coding\C#\Windows Forms\Login and Register\Login and Register\obj\Debug\Login_and_Register.frmRegister.resources
+D:\Coding\C#\Windows Forms\Login and Register\Login and Register\obj\Debug\Login_and_Register.Properties.Resources.resources
+D:\Coding\C#\Windows Forms\Login and Register\Login and Register\obj\Debug\Login and Register.csproj.GenerateResource.cache
+D:\Coding\C#\Windows Forms\Login and Register\Login and Register\obj\Debug\Login and Register.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Windows Forms\Login and Register\Login and Register\obj\Debug\Login and Register.exe
+D:\Coding\C#\Windows Forms\Login and Register\Login and Register\obj\Debug\Login and Register.pdb
